@@ -1,0 +1,13 @@
+div.mp-logo-question {
+  @extend i.mp-icon;
+  @extend .fa-question;
+  font-size: 10rem;
+  vertical-align: middle;
+}
+
+div.mp-logo {
+  @extend i.mp-icon;
+  @extend .fa-camera-retro;
+  font-size: 10rem;
+  vertical-align: middle;
+}

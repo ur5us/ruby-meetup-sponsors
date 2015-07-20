@@ -1,0 +1,28 @@
+{
+  "name": "middleman-presentation-theme-default",
+  "description": "Default theme for middleman presentation",
+  "version": "0.0.20",
+  "license": "CC BY 4.0",
+  "main": [
+    "stylesheets/middleman-presentation-theme-default.scss"
+  ],
+  "ignore": [],
+  "dependencies": {
+    "jquery": ">= 1.10.0",
+    "fontawesome": ">= 4.0.3",
+    "open-sans": ">= 1.1.0",
+    "inconsolata": "latest",
+    "middleman-presentation-theme-common": "latest",
+    "d3": "latest"
+  },
+  "homepage": "https://github.com/maxmeyer/middleman-presentation-theme-default",
+  "_release": "0.0.20",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.20",
+    "commit": "0f3d818501692c028b16977c7c0e5baf6f72d857"
+  },
+  "_source": "https://github.com/maxmeyer/middleman-presentation-theme-default.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/maxmeyer/middleman-presentation-theme-default.git"
+}

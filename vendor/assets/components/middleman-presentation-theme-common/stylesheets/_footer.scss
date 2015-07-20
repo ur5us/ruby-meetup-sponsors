@@ -1,0 +1,57 @@
+.reveal {
+  footer.mp-presentation-footer {
+    position: absolute;
+    bottom: 20px;
+    left: 0px;
+    width: 100%;
+    text-align: center;
+  }
+
+  a.mp-print-link {
+    font-size: 0.75rem;
+  }
+
+  i.mp-print {
+    @extend .mp-icon;
+    @extend .mp-icon-print;
+    margin-left: 5px;
+  }
+}
+
+.reveal footer.mp-presentation-footer {
+  min-height: 10px;
+  font-size: 0.75rem;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  z-index: 25;
+
+  .mp-meta-copyright {
+    margin-right: .2rem;
+  }
+
+  .mp-meta-company {
+  }
+
+  .mp-meta-date {
+  }
+
+  .mp-meta-speaker {
+  }
+
+  .mp-meta-author {
+    margin-right: .2rem;
+  }
+
+  .mp-meta-author:after {
+    content: ', ';
+  }
+
+  .mp-meta-license {
+    margin-right: .2rem;
+  }
+
+  .mp-meta-version {
+  }
+}

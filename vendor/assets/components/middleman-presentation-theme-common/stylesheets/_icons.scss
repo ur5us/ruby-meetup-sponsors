@@ -1,0 +1,76 @@
+i.mp-icon {
+  @extend .fa;
+  margin-left: 12px;
+  margin-right: 12px;
+  color: #616161;
+  font-style: normal;
+}
+
+.mp-icon-stack {
+  @extend .fa-stack;
+}
+
+.mp-icon-print:before {
+  // fa-print
+  content: "\f02f";
+}
+
+.mp-icon-hint:before {
+  // fa-exclamation-circle
+  content: "\f06a";
+}
+
+.mp-icon-well-done:before {
+  // fa-plus-circle
+  content: "\f055";
+}
+
+.mp-icon-existing-feature:before {
+  // fa-check-circle-o
+  content: "\f05d";
+}
+
+.mp-icon-missing-feature:before {
+  // fa-circle-o
+  content: "\f10c";
+}
+
+.mp-icon-question:before {
+  // fa-question-circle
+  content: "\f059";
+}
+
+.mp-icon-contact-phone:before {
+  // fa-phone
+  content: "\f095";
+}
+
+.mp-icon-contact-mail:before {
+  // fa-envelope
+  content: "\f0e0";
+}
+
+.mp-icon-contact-github:before {
+  // fa-github
+  content: "\f09b";
+}
+
+.mp-icon-copyright:before {
+  // fa-copyright
+  content: "\f1f9";
+}
+
+.mp-icon-external-url:before {
+  // fa-external-link
+  content: "\f08e";
+}
+
+.mp-icon-the-end:before {
+  // fa-flag-checkered
+  content: "\f11e";
+}
+
+.mp-icon-idea:before {
+  // fa-lightbulb-o
+  content: "\f0eb";
+}

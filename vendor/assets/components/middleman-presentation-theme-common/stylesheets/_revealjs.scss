@@ -1,0 +1,20 @@
+@import "reveal.js/css/theme/template/mixins";
+@import "reveal.js/css/theme/template/settings";
+
+// Override theme settings (see ../template/settings.scss)
+$mainFont: 'Open Sans', sans-serif;
+$mainColor: #000000;
+$headingFont: 'Open Sans', sans-serif;
+$headingColor: #000000;
+$headingLetterSpacing: -0.08em;
+$headingTextShadow: none;
+$backgroundColor: #ffffff;
+$linkColor: #2f2f2f;
+$linkColorHover: #0061b2;
+$selectionBackgroundColor: #858585;
+$bulletPointColor: #2f2f2f;
+
+// Theme template ------------------------------
+@import "reveal.js/css/theme/template/theme";
+// ---------------------------------------------
+

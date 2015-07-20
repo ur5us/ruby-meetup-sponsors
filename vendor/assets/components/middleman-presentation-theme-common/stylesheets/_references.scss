@@ -1,0 +1,12 @@
+p.mp-citation-reference {
+  font-size: 1rem;
+}
+
+a.mp-external-url:after {
+  @extend i.mp-icon;
+  @extend .mp-icon-external-url:before;
+  margin-left: 12px;
+  margin-right: 12px;
+  font-size: 0.7em;
+}
+

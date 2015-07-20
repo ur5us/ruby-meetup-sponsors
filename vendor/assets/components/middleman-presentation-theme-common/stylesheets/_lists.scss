@@ -1,0 +1,39 @@
+.reveal {
+
+  ul,
+  ol {
+    margin: 0;
+  }
+
+  ul>li>ul.mp-list-style-1 {
+    list-style-type: disc;
+  }
+
+  .mp-no-list {
+    list-style: none;
+  }
+
+  .mp-hidden-step {
+    list-style-type: none;
+  }
+
+  ul li {
+    margin-bottom: 20px;
+  }
+
+  ul li ul li {
+    margin-bottom: 5px;
+  }
+
+  ul li ul {
+    list-style-type: circle;
+  }
+
+  ul > li {
+    margin-left: 2em;
+  }
+
+  ul.mp-list-with-icons {
+    list-style-type: none;
+  }
+}

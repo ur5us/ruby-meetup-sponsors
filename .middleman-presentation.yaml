@@ -1,0 +1,31 @@
+---
+activate_center: true
+activate_controls: true
+activate_fragments: true
+activate_history: true
+activate_keyboard: true
+activate_mouse_wheel: true
+activate_overview: true
+activate_progress: true
+activate_slide_number: true
+activate_touch: true
+author: ur5us
+auto_slide: 0
+auto_slide_stoppable: true
+bower_directory: vendor/assets/components
+date: 20.07.2015
+default_background_transition: default
+default_transition_speed: default
+default_transition_type: linear
+generated_presentation_id: sponsors-3db4e3343fcb249ac05b491daf045c62
+height: 700
+hide_address_bar: true
+license: CC BY 4.0
+margin: 0.1
+max_scale: 1.0
+min_scale: 0.2
+speaker: ur5us
+title: sponsors
+version: v0.0.1
+view_distance: 3
+width: 960

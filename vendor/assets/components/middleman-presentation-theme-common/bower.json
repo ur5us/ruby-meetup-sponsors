@@ -1,0 +1,12 @@
+{
+  "name": "middleman-presentation-theme-common",
+  "description": "Common styles for themes for middleman presentation, https://github.com/maxmeyer/middleman-presentation",
+  "version": "0.0.36",
+  "license": "CC BY 4.0",
+  "main": [
+    "stylesheets/middleman-presentation-theme-common.scss",
+    "javascripts/middleman-presentation-theme-common.js"
+    ],
+  "ignore": [],
+  "dependencies": {}
+}

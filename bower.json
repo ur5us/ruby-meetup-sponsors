@@ -1,0 +1,11 @@
+{
+  "name": "sponsors-3db4e3343fcb249ac05b491daf045c62",
+    "dependencies": {
+    "jquery": "~1.11",
+    "normalize.css": "latest",
+    "highlightjs": "latest",
+    "reveal.js": "latest",
+    "lightbox2": "https://github.com/dg-vrnetze/revealjs-lightbox2.git",
+    "middleman-presentation-theme-default": "https://github.com/maxmeyer/middleman-presentation-theme-default.git"
+    }
+}

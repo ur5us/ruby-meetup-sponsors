@@ -1,0 +1,18 @@
+{
+  "name": "middleman-presentation-theme-default",
+  "description": "Default theme for middleman presentation",
+  "version": "0.0.10",
+  "license": "CC BY 4.0",
+  "main": [
+    "stylesheets/middleman-presentation-theme-default.scss"
+    ],
+  "ignore": [],
+  "dependencies": {
+    "jquery": ">= 1.10.0",
+    "fontawesome": ">= 4.0.3",
+    "open-sans": ">= 1.1.0",
+    "inconsolata": "latest",
+    "middleman-presentation-theme-common": "latest",
+    "d3": "latest"
+  }
+}
