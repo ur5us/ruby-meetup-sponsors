@@ -7,3 +7,21 @@
 @import 'middleman-presentation-helpers/image_gallery/image_gallery';
 @import 'middleman-presentation-helpers/images/images';
 @import 'middleman-presentation-theme-default/stylesheets/middleman-presentation-theme-default';
+
+@import 'logos';
+
+.agenda {
+  dt {
+    display: inline;
+    width: 160px;
+  }
+
+  dd {
+    display: inline;
+
+    & + dt:before {
+      content: '\D\A';
+      white-space: pre;
+    }
+  }
+}

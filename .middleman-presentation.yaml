@@ -9,8 +9,9 @@ activate_overview: true
 activate_progress: true
 activate_slide_number: true
 activate_touch: true
+activate_loop: true
 author: ur5us
-auto_slide: 0
+auto_slide: 10000
 auto_slide_stoppable: true
 bower_directory: vendor/assets/components
 date: 20.07.2015
